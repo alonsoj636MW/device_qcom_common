@@ -38,7 +38,6 @@ endif
 # Packages
 PRODUCT_PACKAGES += \
     android.hardware.thermal@2.0.vendor \
-    android.hardware.thermal-V1-ndk.vendor \
     libavservices_minijail.vendor \
     libpsi.vendor \
     libtflite \
